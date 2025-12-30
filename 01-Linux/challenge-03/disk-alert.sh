@@ -1,5 +1,8 @@
 #!/bin/bash
 
+set -e
+set -u
+
 THRESHOLD=${1:-90}
 ALERT=0
 
