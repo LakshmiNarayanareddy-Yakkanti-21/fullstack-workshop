@@ -1,7 +1,7 @@
 # Review: 04-html
 
 **Exercise:** Exercise
-**Review Date:** 2025-12-30 15:31
+**Review Date:** 2025-12-31 09:43
 
 ---
 
@@ -20,17 +20,17 @@
 
 📄 **portfolio-v1.html**
    Path: `04-html/portfolio-v1.html`
-   Lines: 161
+   Lines: 158
 
     - ✅ Has `<!DOCTYPE html>`
     - ✅ Uses semantic HTML5 tags
-    - ❌ Images missing `alt` attributes
+    - ✅ Images have `alt` attributes
     - ✅ Has viewport meta tag (mobile-friendly)
     - ✅ Has `lang` attribute
     - 📌 **Version 1 (Raw HTML)**
     - ✅ Pure semantic HTML (no styling)
 
-   **Score: 4/5**
+   **Score: 5/5**
 
 📄 **portfolio-v2.css**
    Path: `04-html/portfolio-v2.css`
@@ -67,7 +67,7 @@
 
    **Score: 4/5**
 
-### Topic Score: 32 / 35 (91%)
+### Topic Score: 33 / 35 (94%)
 
 ---
 
