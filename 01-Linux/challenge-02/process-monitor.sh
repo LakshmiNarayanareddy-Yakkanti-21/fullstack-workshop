@@ -1,6 +1,7 @@
 #!/bin/bash
 
-
+set -e
+set -u
 if [ $# -ne 2 ]; 
 then
     echo "Usage: $0 <process-name> <interval-seconds>"
