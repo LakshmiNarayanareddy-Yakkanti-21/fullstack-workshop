@@ -1,7 +1,7 @@
 # Review: 06-javascript
 
 **Exercise:** Exercise
-**Review Date:** 2026-01-02 14:01
+**Review Date:** 2026-01-02 16:53
 
 ---
 
@@ -196,14 +196,127 @@ Unable to check - no exercise file
 
 ## Challenge
 
-**Status:** ✅ Submitted (2 files)
+**Status:** ✅ Submitted (10 files)
 
 ### Challenge Relevance Check
 
-❌ **Submission does NOT match exercise requirements**
-   Expected keywords: task manager todo add delete
-   Found only: add 
-   **Please review the exercise requirements and resubmit**
+⚠️ Submission partially matches exercise requirements
+   Found: add delete 
+   Missing: task manager todo 
+
+### Challenge Code Review
+
+📄 **counter.js**
+   Lines: 46
+
+    - ✅ Uses `const`/`let` (no `var`)
+    - ✅ Uses strict equality (`===`)
+    - ✅ Uses arrow functions
+    - 💡 Consider using template literals for string interpolation
+    - ✅ Uses modern array methods
+
+   **Score: 4/5**
+
+📄 **form-validator.js**
+   Lines: 81
+
+    - ✅ Uses `const`/`let` (no `var`)
+    - ✅ Uses strict equality (`===`)
+    - ✅ Uses arrow functions
+    - 💡 Consider using template literals for string interpolation
+    - 💡 Consider using array methods (map, filter, reduce)
+
+   **Score: 3/5**
+
+📄 **counter.js**
+   Lines: 46
+
+    - ✅ Uses `const`/`let` (no `var`)
+    - ✅ Uses strict equality (`===`)
+    - ✅ Uses arrow functions
+    - 💡 Consider using template literals for string interpolation
+    - ✅ Uses modern array methods
+
+   **Score: 4/5**
+
+📄 **shopping-cart.js**
+   Lines: 54
+
+    - ✅ Uses `const`/`let` (no `var`)
+    - ✅ Uses strict equality (`===`)
+    - ✅ Uses arrow functions
+    - 💡 Consider using template literals for string interpolation
+    - ✅ Uses modern array methods
+
+   **Score: 4/5**
+
+📄 **library.js**
+   Lines: 116
+
+    - ✅ Uses `const`/`let` (no `var`)
+    - ✅ Uses strict equality (`===`)
+    - ✅ Uses arrow functions
+    - 💡 Consider using template literals for string interpolation
+    - ✅ Uses modern array methods
+
+   **Score: 4/5**
+
+📄 **event-emitter.js**
+   Lines: 46
+
+    - ✅ Uses `const`/`let` (no `var`)
+    - ✅ Uses strict equality (`===`)
+    - ✅ Uses arrow functions
+    - 💡 Consider using template literals for string interpolation
+    - ✅ Uses modern array methods
+
+   **Score: 4/5**
+
+📄 **type-checker.js**
+   Lines: 30
+
+    - ✅ Uses `const`/`let` (no `var`)
+    - ✅ Uses strict equality (`===`)
+    - ✅ Uses arrow functions
+    - 💡 Consider using template literals for string interpolation
+    - 💡 Consider using array methods (map, filter, reduce)
+
+   **Score: 3/5**
+
+📄 **validate-password.js**
+   Lines: 44
+
+    - ✅ Uses `const`/`let` (no `var`)
+    - ✅ Uses strict equality (`===`)
+    - 💡 Consider using arrow functions
+    - 💡 Consider using template literals for string interpolation
+    - 💡 Consider using array methods (map, filter, reduce)
+
+   **Score: 2/5**
+
+📄 **compose.js**
+   Lines: 21
+
+    - ✅ Uses `const`/`let` (no `var`)
+    - ✅ Uses strict equality (`===`)
+    - ✅ Uses arrow functions
+    - 💡 Consider using template literals for string interpolation
+    - ✅ Uses modern array methods
+
+   **Score: 4/5**
+
+📄 **array-methods.js**
+   Lines: 75
+
+    - ✅ Uses `const`/`let` (no `var`)
+    - ✅ Uses strict equality (`===`)
+    - ✅ Uses arrow functions
+    - 💡 Consider using template literals for string interpolation
+    - 💡 Consider using array methods (map, filter, reduce)
+
+   **Score: 3/5**
+
+### Challenge Score: 35 / 50 (70%)
 
 
 ---
